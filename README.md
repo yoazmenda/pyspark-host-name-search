@@ -5,7 +5,7 @@ This websites lists scanned and crawled domain names as part of the https://scan
 
 it publishes dump files containing all the scanned hostnames.
 
-This project aims to help woth searching withing those files - with about 300 million records using PySpark
+This project aims to help with searching within those files - with about 300 million records using PySpark
 
 # Usage
 ```bash
